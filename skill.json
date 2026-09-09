@@ -1,0 +1,13 @@
+{
+  "name": "genpark-se3-equivariant-message-passing-skill",
+  "version": "1.0.0",
+  "description": "SE(3) and E(n) equivariant graph neural network message passing kernel preserving exact 3D rotational and translational symmetries in molecular and physical systems.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "geometric-deep-learning",
+    "equivariant-gnn",
+    "se3-equivariance",
+    "molecular-ai"
+  ]
+}
